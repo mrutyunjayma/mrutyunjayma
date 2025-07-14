@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hyy ..!! I am Mrutyunjay Masanta. I am a passionate and dedicated MERN Stack Developer with a strong foundation in building full-stack web applications. As a fresher, I have honed my skills in developing dynamic and responsive web applications using MongoDB, Express.js, React.js, and Node.js. My enthusiasm for web development drives me to continuously learn and stay updated with the latest technologies and best practices in the industry.
+💫 About Me:
+Hi, I’m Mrutyunjay Masanta — an aspiring Cloud & DevOps Engineer passionate about building automated pipelines, cloud deployments, and containerized applications. 
+
+🚀 I’m actively working on:
+• CI/CD pipelines with Jenkins & GitHub Actions  
+• Dockerized applications with Kubernetes (EKS/Minikube)  
+• Cloud deployments on AWS (EC2, S3, Lambda, Auto Scaling)  
+• GitOps deployments with ArgoCD  
+• Monitoring with CloudWatch & Infrastructure as Code
+
+🔎 Currently building real-world simulation projects on Cloud + DevOps.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrutyunjay-masanta-2a7866247/) 
