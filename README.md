@@ -31,7 +31,7 @@ Hi, I’m Mrutyunjay Masanta — an aspiring Cloud & DevOps Engineer passionate 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://i.pinimg.com/originals/b2/c5/e6/b2c5e65384b1b0ea4cd351b6155e1b29.jpg" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="60" alt="linux logo"  />
