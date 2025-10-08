@@ -1,6 +1,6 @@
 # 💫 About Me:
 💫 About Me:
-Hi, I’m Mrutyunjay Masanta — an aspiring Cloud & DevOps Engineer passionate about building automated pipelines, cloud deployments, and containerized applications. 
+Hi, I’m Mrutyunjay Masanta — Cloud & DevOps Engineer passionate about building automated pipelines, cloud deployments, and containerized applications. 
 
 🚀 I’m actively working on:
 • CI/CD pipelines with Jenkins & GitHub Actions  
